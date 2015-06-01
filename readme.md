@@ -4,7 +4,7 @@ Collection of tools and practices working in harmony to develop for the web.
 
 ## Quick start
 
-Clone the git repo - `https://github.com/gbrlsepulveda/WebsiteBase.git`
+Clone the git repo - `https://github.com/fbessa/passeidireto-mobile.git`
 
 
 ## Tools and Plugins
